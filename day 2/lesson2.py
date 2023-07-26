@@ -1,5 +1,5 @@
 name = "nika"
-surname = "andoevi,"
+surname = "andoevi"
 age = 29
 height = 182.4
 workplace_and_position= "geocell, Telecommunications specialist"
